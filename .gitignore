@@ -1,0 +1,35 @@
+# バックアップファイル
+*.bak
+*.backup
+*~
+
+# 一時ファイル
+*.tmp
+*.temp
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# エディタ設定
+.vscode/
+.idea/
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ログファイル
+*.log
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
